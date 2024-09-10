@@ -1,0 +1,3 @@
+.table-item {
+    @apply bg-green-700 px-6 py-10 text-white cursor-pointer hover:bg-green-800 transition-all text-center min-w-[145px] min-h-[180px] flex items-center justify-center;
+  }
